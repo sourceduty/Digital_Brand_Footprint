@@ -1,10 +1,10 @@
 ## Digital_Brand_Footprint
 
-🔗 Analyze branded website and social account link data with Python.
+🔗 Software concept for analyzing branded website and social account link data with Python.
 
 ## PROCESS THEORY
 
-Links.csv → Python → Metadata → Data visualization → Data storage
+Links.csv → Python → Metadata → Data visualization 
 
 ## CONCEPT
 
