@@ -1,25 +1,29 @@
-## Digital_Brand_Footprint
+### Digital_Brand_Footprint
 
 🔗 Software concept for analyzing branded website and social account link data with Python.
 
-## PROCESS THEORY
+### PROCESS THEORY
 
 Links.csv → Python → Metadata → Data visualization 
 
-## CONCEPT
+### CONCEPT
 
 Organize, analyze and visualize branded website and social account link data and metadata.
 
-## FEATURES
+### FEATURES
 
 - Capturing every brand or business link.
 - Visualizing digital footprints.
 
-## FUTURE UPDATES
+### FUTURE UPDATES
 
 - Viualize link data.
 - Scrape link data.
 - Real-time link tracking.
+
+### ChatGPT
+
+[Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
 
 #
 
