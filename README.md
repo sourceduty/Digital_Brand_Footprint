@@ -20,3 +20,7 @@ Organize, analyze and visualize branded website and social account link data and
 - Viualize link data.
 - Scrape link data.
 - Real-time link tracking.
+
+#
+
+Copyright (C) 2023, Sourceduty - All Rights Reserved.
