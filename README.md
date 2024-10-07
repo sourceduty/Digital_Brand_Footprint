@@ -1,4 +1,4 @@
-![Business Footprint](https://github.com/sourceduty/Digital_Brand_Footprint/assets/123030236/db924a1e-b948-4d19-8e3e-549885552468)
+![Domains](https://github.com/user-attachments/assets/7bcce2d5-d991-4573-aac0-46699017a986)
 
 > Expert in finding and analyzing branded websites and social media links.
 
